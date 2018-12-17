@@ -1,4 +1,4 @@
-def CONTAINER_NAME="jenkins-pipeline"
+def CONTAINER_NAME="dockerdemo"
 def CONTAINER_TAG="latest"
 def DOCKER_HUB_USER="ali1234567"
 def HTTP_PORT="8090"
